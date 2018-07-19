@@ -116,6 +116,9 @@ namespace PesRivaisForms.DAO
             return result;
         }
 
+        /**
+         * Metodo responsável por ordenar uma lista de participantes utilizando linq.
+         **/ 
         private List<Participante> OrdenaPorPontosGols(List <Participante> participantes)
         {
             var query = from p in participantes
