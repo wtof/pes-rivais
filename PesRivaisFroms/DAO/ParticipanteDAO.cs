@@ -25,6 +25,9 @@ namespace PesRivaisForms.DAO
             
         }
 
+        /**
+         * Metodo responsavel por buscar todos os participantes
+         **/
         public List <Participante> BuscaTodosPartipantes()
         {
 
