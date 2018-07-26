@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Downloads\gamepad.ico = ..\..\..\Downloads\gamepad.ico
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesRivais.teste", "ClassLibrary3\PesRivais.teste.csproj", "{4A23B702-00A8-451B-85DF-0B2674DEBA24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{80B43AD1-E8E7-4445-944C-8F45ABA89F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B43AD1-E8E7-4445-944C-8F45ABA89F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B43AD1-E8E7-4445-944C-8F45ABA89F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A23B702-00A8-451B-85DF-0B2674DEBA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A23B702-00A8-451B-85DF-0B2674DEBA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A23B702-00A8-451B-85DF-0B2674DEBA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A23B702-00A8-451B-85DF-0B2674DEBA24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
